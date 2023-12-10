@@ -1,76 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Parsivni",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T18:02:07.553Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "21.616579336740603",
+        "lng": "79.1015625"
       },
-      "id": 17806751
+      "id": 73930386
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Nijar",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-04-03T07:47:59.202Z",
+      "cityName": "Durgi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T18:02:12.786Z",
       "notes": "",
       "position": {
-        "lat": "36.967508314568164",
-        "lng": "-2.13128394200588"
+        "lat": "16.46769474828897",
+        "lng": "79.62890625000001"
       },
-      "id": 98443198
+      "id": 73930387
     },
     {
-      "cityName": "Terradillos",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-10T17:56:02.813Z",
+      "cityName": "Pachpahar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T18:02:16.603Z",
       "notes": "",
       "position": {
-        "lat": "40.84706035607122",
-        "lng": "-5.603027343750001"
+        "lat": "24.5271348225978",
+        "lng": "75.93750000000001"
       },
-      "id": 98443199
-    },
-    {
-      "cityName": "Robledillo de Gata",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-10T17:56:07.295Z",
-      "notes": "",
-      "position": {
-        "lat": "40.34654412118006",
-        "lng": "-6.481933593750001"
-      },
-      "id": 98443200
+      "id": 73930388
     }
   ]
 }
