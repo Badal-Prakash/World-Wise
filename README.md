@@ -21,3 +21,5 @@ Users can create accounts, log in securely, and access their travel logs from an
 5.Interactive Map: A dynamic map interface visualizes users' travel journeys, displaying markers for each visited location. 
 This interactive map enhances the user experience by offering a visual representation of their global adventures.
 
+
+hello world
